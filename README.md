@@ -2,6 +2,3 @@
 
 ## Setup:
 * Use requirements.txt to install dependencies
-
-## Links:
-* https://github.com/wmcnally/deep-darts
